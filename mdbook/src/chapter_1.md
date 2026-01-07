@@ -1,6 +1,2 @@
 # Project Industrial automation
 
-
-
-
-
