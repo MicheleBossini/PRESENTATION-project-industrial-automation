@@ -20,5 +20,7 @@ Data out of our samples:
 ## Materialflow
 ![alt text](<Material_flow.jpg>)
 
+
 ## Outcomes
 ![alt text](<Outcomes.jpg>)
+
