@@ -1,8 +1,8 @@
-# Project Industrial automation
+# Project Industrial automation:
 
 # LFT- In-line continuous compression moulding
 
-Components:
+Group members:
 - Hugo Beilmann
 - Esmee Van Der Wel
 - Michele Bossini
