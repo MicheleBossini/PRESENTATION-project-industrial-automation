@@ -8,7 +8,8 @@
 | 5    | Cylinder              | 1           | d250mm   | 400-600   |
 | 6    | Infrared Lamp         | 1           | 1-2 kW   | 140       |
 
-
+## plc
+![alt text](cx2020.png)
 
 ## Linear rails
 ![alt text](image.png)
