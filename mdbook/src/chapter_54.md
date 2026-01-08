@@ -8,6 +8,7 @@
 | 5    | Cylinder                   | 1           | d250mm   | 400-600   |
 | 6    | Infrared Lamp              | 1           | 1-2 kW   | 140       |
 | 7    | beckhoff plc cx2020n031    | 1           | -        | 350       |
+| 8    | ethercatmotordriver+motor  | 1           | 400W     | 146,95    |
 
 ## PLC
 The budget friendly beckhoff plc cx2020n031, can be used as ethercatmaster and can be programmed with twincat.
@@ -20,6 +21,7 @@ manual: https://download.beckhoff.com/download/document/ipc/embedded-pc/embedded
 
 ## servo motor
 Ethercat servo motor kit
+buy: https://www.stepperonline.nl/a6-serie-400w-sto-safe-torque-off-ethercat-ac-servomotor-kit-3000rpm-1-27nm-17-bits-absoluut-encoder-ip67-a6-ec400h2a1-m17-sto
 ![alt text](servo.png)
 
 ## Infrared lamp
