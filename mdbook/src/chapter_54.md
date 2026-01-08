@@ -7,8 +7,12 @@
 | 4    | Linear rails motor    | 1           | -        | -         |
 | 5    | Cylinder              | 1           | d250mm   | 400-600   |
 | 6    | Infrared Lamp         | 1           | 1-2 kW   | 140       |
+| 7    | beckhoff plc          | 1           | -        | 350       |
 
-## plc
+## PLC
+The budget friendly beckhoff plc cx2020n031, can be used as ethercatmaster and can be programmed with twincat.
+buy: https://nl.wiautomation.com/beckhoff/plc-systems/other/cx2020n031
+manual: https://download.beckhoff.com/download/document/ipc/embedded-pc/embedded-pc-cx/cx2000_en.pdf 
 ![alt text](cx2020.png)
 
 ## Linear rails
