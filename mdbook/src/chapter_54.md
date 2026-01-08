@@ -18,6 +18,10 @@ manual: https://download.beckhoff.com/download/document/ipc/embedded-pc/embedded
 ## Linear rails
 ![alt text](image.png)
 
+## servo motor
+Ethercat servo motor kit
+![alt text](servo.png)
+
 ## Infrared lamp
 ![alt text](image-1.png)
 
