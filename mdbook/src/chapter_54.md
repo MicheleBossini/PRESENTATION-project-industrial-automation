@@ -1,4 +1,4 @@
-# Purchase list and CAD Design
+# Purchase list
 | Item | Description           | Quantity    | Value    | Price (€) |
 |------|-----------------------|-------------|----------|-----------|
 | 1    | Current extrusion     | 1           | -        | 0         |
