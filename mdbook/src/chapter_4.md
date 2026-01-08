@@ -1,21 +1,21 @@
 # Design process
-## Firts Concept: Rollers
+## Concept 1: Rollers
 ![alt text](<rollers.png>)
 
 
-## Second Concept: Extrusion set up
+## Concept 2: Extrusion set up
 ![alt text](<extrusion_setup.png>)
 
 
-## Third concept : Belts
+## Concept 3: Belts
 ![alt text](<belts.png>)
 
 
-## Fourth concept: Continious Compression Moulding
+## Concept 4: Continious Compression Moulding
 ![alt text](<ccm1.png>)
 
 
-## Fifth concept: Cut Sides
+## Concept 5: Cut Sides
 ![alt text](<cut_sides.png>)
 
 
