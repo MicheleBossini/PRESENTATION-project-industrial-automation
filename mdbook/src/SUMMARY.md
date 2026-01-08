@@ -3,7 +3,7 @@
 - [Project Industrial Automation](./chapter_1.md)
 - [Functions and state diagram](./chapter_2.md)
 - [Tests](./chapter_3.md)
-- [Choose of the final concept](./chapter_4.md)
+- [Designs](./chapter_4.md)
 - [Final Concept](./chapter_5.md)
   - [Interactions](./chapter_50.md)
   - [Flowchart](./chapter_51.md)
