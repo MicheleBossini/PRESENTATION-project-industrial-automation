@@ -1,7 +1,4 @@
-# Interactions
-
-
-# Interaction between the components
+# Interactions between the components
 ```plantuml
 @startuml ExtrusionProcess
 ' Title of the diagram
@@ -31,7 +28,7 @@ package Press as "Press Machine"{
 
 }
 
-    component Synchronization <<dashed>>{
+    component Synchronization_Bord <<dashed>>{
     [Speed]
     [Rail Position]
     [Cylinder]
@@ -70,7 +67,7 @@ legend right
   - --> : Process Flow
   - .> : Synchronization input/output
 end legend
-[Processed Material] -up-> [Cooling System] : **Pressing/Opening 
+[Processed Material] <-up- [Cooling System] : **Pressing/Opening 
 
 'Synchronization of the whole process
 [Speed] ..> [Pulling Mechanism] : Pulled Material Speed
@@ -84,7 +81,7 @@ end legend
 ```
 
 
-The synchronization is connected to all components of the machine and oversees the entire process, ensuring that all data flows through it. It controls and synchronizes every aspect of the operation.
+The synchronization bord is connected to all components of the machine and oversees the entire process, ensuring that all data flows through it. It controls and synchronizes every aspect of the operation.
 
 Synchronization Control:
   - infrared lamp / cooling system
