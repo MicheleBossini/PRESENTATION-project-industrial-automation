@@ -27,3 +27,6 @@ Data out of our samples:
 ## motor calculations
 ![alt text](<motor_calc.png>)
 
+![alt text](<motorcalc2.jpg>)
+
+![alt text](<motorcalc3.jpg>)
