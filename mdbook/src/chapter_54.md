@@ -6,7 +6,10 @@
 | 3    | Linear rails          | 1 couple    | -        | 100-200   |
 | 4    | Linear rails motor    | 1           | -        | -         |
 | 5    | Cylinder              | 1           | d250mm   | 400-600   |
-| 6    | Infrared Lamp         | 1           | 1-2 kW   | 140       |
+| 6    | sheet meatl           | 5 m^2       |          | 150       |
+| 7    | die material          | 4           |          | 300       |
+| 8    | profiles              | 30          |          | 150       |
+| 9    | infrared lamp         | 1           | 1-2 kW   | 140       |
 
 ## plc
 ![alt text](cx2020.png)
