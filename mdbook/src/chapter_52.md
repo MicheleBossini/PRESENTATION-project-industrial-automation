@@ -1,2 +1,2 @@
 # Electrical drawings
-![alt text](<draw.png>)
+![alt text](<EPLANDRAWING.png>)
