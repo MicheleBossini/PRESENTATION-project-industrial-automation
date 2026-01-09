@@ -14,6 +14,7 @@
 | 11   | plc power supply unit      | 1           |          | 260       |
 | 12   | plc i/o modules            | 4           |          | 4x35      |
 | 13   |24V DC TRAFO                | 1           |          | 28        |
+| 14   |BUTTONS                     | 2           |          | 2X7       |
 
 ## PLC
 The budget friendly beckhoff plc cx2020n031, can be used as ethercatmaster and can be programmed with twincat.
@@ -56,6 +57,10 @@ buy: https://www.js-technik.nl/cmrv030-iec56-i-50-wormwielreductor/CSG03050050M?
 
 ## Cylinder
 ![alt text](CS1.jpg)
+
+## INDUSTRIAL BUTTONS
+BUY: https://nl.rs-online.com/web/p/push-button-switches/3308616?cm_mmc=NL-PLA-DS3A-_-google-_-CSS_NL_NL_Pmax_1225-_--_-3308616&matchtype=&&gclsrc=aw.ds&gad_source=1&gad_campaignid=23353140411&gbraid=0AAAAADkeWNNUXUMFlr8cbvQRSpDepySgh&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu1X2qLwdT0-A02kM3wPpSZ1X1KJ9nc-rUwuU-7mCabvQmaZ0a-TimhoCp18QAvD_BwE
+![alt text](BUTTON.PNG)
 
 
 
