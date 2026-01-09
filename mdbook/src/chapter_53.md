@@ -29,4 +29,3 @@ Data out of our samples:
 
 ![alt text](<motorcalc2.jpg>)
 
-![alt text](<motorcalc3.jpg>)
